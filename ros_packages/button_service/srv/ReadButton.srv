@@ -1,6 +1,0 @@
-uint8 button_id
----
-bool success
-bool pressed
-bool switched_on
-string message

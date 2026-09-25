@@ -1,2 +1,0 @@
-string chat_id
-bool listening

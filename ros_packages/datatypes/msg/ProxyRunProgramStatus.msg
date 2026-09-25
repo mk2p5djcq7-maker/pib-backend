@@ -1,2 +1,0 @@
-string proxy_goal_id
-uint8 status

@@ -1,4 +1,4 @@
-#VRML_SIM R2023b utf8
+#VRML_SIM R2025a utf8
 
 EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackground.proto"
 EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
@@ -11,8 +11,8 @@ WorldInfo {
 }
 Viewpoint {
   fieldOfView 0.78
-  orientation 0.1324851229513466 0.19627425622421715 -0.9715575683098748 2
-  position 1.3 5.75 3.75
+  orientation 0 0 1 4.71238898038469
+  position 0.15187449662290353 4.90544996808894 1.435465346962364
 }
 TexturedBackground {
 }
@@ -35,5 +35,5 @@ Desk {
 pib {
   translation 0.160655 0.15445 0.672073
   rotation 0.0002159771054578293 0.0009883264825824723 0.999999488282196 -2.890015307179586
-  controller "<extern>"
+  controller "test"
 }

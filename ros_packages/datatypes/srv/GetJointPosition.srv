@@ -1,5 +1,0 @@
-string joint_name
----
-bool successful
-int32 position
-string message
